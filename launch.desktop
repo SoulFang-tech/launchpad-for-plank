@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=launch
+Comment=launch apps in gnome
+Exec=xdotool key super+a
+Icon=/home/chronos/.icons/default/launchpad-icon.png
+Encoding=UTF-8
+Terminal=false
+StartupNotify=false
+Type=Application
