@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=launch
+Name=Show Applications
 Comment=launch apps in gnome
 Exec=xdotool key super+a
 Icon=./launchpad-icon.png
